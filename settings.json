@@ -8,7 +8,7 @@
   "server": {
     "ip": "rozhan.play.hosting",
     "port": 25687,
-    "version": "26.3",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
